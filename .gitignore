@@ -1,0 +1,6 @@
+# будут игнорироваться по требованию
+*_old
+*_backup
+/tmp
+Thumbs.db
+.DS_Store
